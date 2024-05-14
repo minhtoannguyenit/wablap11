@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone",
+    "price": 1000.20,
+    "description": "Apple's mobile operating system"
+  },
+  {
+    "id": 2,
+    "name": "Samsung",
+    "price": 900.20,
+    "description": "Samsung's mobile operating system"
+  },
+  {
+    "id": 3,
+    "name": "Nokia",
+    "price": 800.20,
+    "description": "Nokia's mobile operating system"
+  },
+  {
+    "id": 4,
+    "name": "Sony",
+    "price": 700.20,
+    "description": "Sony's mobile operating system"
+  },
+  {
+    "id": 5,
+    "name": "LG",
+    "price": 600.20,
+    "description": "LG's mobile operating system"
+  }
+]

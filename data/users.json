@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@abc.com",
+    "age": 22,
+    "phone": "1234567890"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "jane.doe@abc.com",
+    "age": 30,
+    "phone": "3454567890"
+  },
+  {
+    "id": 3,
+    "name": "Tony Le",
+    "email": "tony.le@gmail.com",
+    "age": 35,
+    "phone": "2222227890"
+  },
+  {
+    "id": 4,
+    "name": "Tommy Le",
+    "email": "tommy.le@gmail.com",
+    "age": 33,
+    "phone": "1111111190"
+  }
+]
