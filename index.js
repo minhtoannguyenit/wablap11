@@ -9,21 +9,13 @@ const app = express();
 
 // 3. configuration
 // app.enable('case sensitive routing');
-app.set('case sensitive routing', true);
+// app.set('case sensitive routing', true);
 app.set('env', 'development');
 
 
 // 4. Middleware
 // apply express buit-in middleware
 // app.use(express.urlencoded());
-
-// if we don't provide a path, it will be executed for all requests
-// /user -> /user/*/*/*
-// app.use('/user', function(req, res, next) {
-//   console.log('Time:', Date.now());
-//   res.send('Hello World');
-// })
-
 
 app.use(express.static(path.join(__dirname)));
 
